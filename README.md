@@ -224,4 +224,3 @@ Replace every placeholder with a result you have personally verified; do not pub
 
 ---
 
-*This README documents the supplied AdventureWorks Power BI project. Update the screenshots, actual report page names, and verified insights to keep the portfolio accurate and representative of your own work.*
