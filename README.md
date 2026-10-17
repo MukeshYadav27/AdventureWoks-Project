@@ -32,7 +32,7 @@ The project work covers the business intelligence workflow: preparing source dat
 
 Explore the interactive AdventureWorks dashboard in Power BI:
 
-[**Open the Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWI5NmExYmMtNTVlYi00NjViLTliOGUtM2I1NGRhYWIyZmVjIiwidCI6IjY4ZDMyNDJhLTk0MjYtNDViYS1hZDRmLTJhMDZiOWIyMDdlOSJ9&embedImagePlaceholder=true)
+[**Open the Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWI5NmExYmMtNTVlYi00NjViLTliOGUtM2I1NGRhYWIyZmVjIiwidCI6IjY4ZDMyNDJhLTk0MjYtNDViYS1hZDRmLTJhMDZiOWIyMDdlOSJ9&embedImagePlaceholder=true&pageName=8e5ab96ea5387ecdd287)
 
 ## Project Goals
 
